@@ -52,7 +52,9 @@ public class CommonCollectionMethods {
 
         names.clear();
         System.out.println(names.size());
+         */
 
+        /*
         names.add("John");
         names.add("George");
         names.add("John");
@@ -70,11 +72,14 @@ public class CommonCollectionMethods {
         System.out.println(names);
          */
 
+        /*
         Collection<String> names = new ArrayList<>();
         names.add("John");
         names.add("George");
         names.add("Luke");
 
         names.forEach(s -> System.out.print(s + ", "));
+         */
+
     }
 }
